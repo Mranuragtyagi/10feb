@@ -1,0 +1,2 @@
+
+                            <legend style="background-color:#c6d6d9; color:#f82e06;text-align: center;font-size: 14px;"><%=request.getParameter("msg") == null ? "" : request.getParameter("msg")%></legend>

@@ -1,0 +1,57 @@
+html, body, .container, .content{height:100%;user-select: none;
+   -moz-user-select: none;
+   -webkit-user-select: none;
+   -o-user-select: none;}
+.container, .content{position:relative;}
+.proper-content{padding-top:51px;}
+.wrapper{min-height:100%;height:auto !important;height:100%;margin:0 auto -54px;}
+.push{height:52px;}
+.footer-wrapper{position:relative;height:52px;}
+.leftproduct{margin-top:15px;font-size:18px;font-family:sans-serif;margin-left:15px;}
+body{background:url(../img/dotted-bg.png);}
+.rightheader{width:inherit;float:right;padding-top:8px;font-family:'Open Sans';font-style:italic;font-size:15px;font-weight:bold;color:#0085C3;}
+#navbarid{width:96%;}
+#loginfield{font:Arial, Helvetica, sans-serif;font-size:18px;padding-top:5px;}
+#lgnimg{height:40px;}
+#netbanking{background-image:url(../img/Netbanking.jpg);background-repeat:no-repeat;height:100px;width:auto;}
+#cardpayment{background-image:url(../img/cardpayment.jpg);background-repeat:no-repeat;height:100px;width:auto;margin-top:-10px;}
+#netbankings{font-family:'Open Sans';font-style:italic;font-size:22px;font-weight:bold;padding-top:3px;text-shadow:3px 3px rgb(240,240,240); margin-left:6%;}
+#cardpayments{font-family:'Open Sans';font-style:italic;font-size:22px;font-weight:bold;padding-top:3px;text-shadow:3px 3px rgb(240,240,240); margin-left:6%;}
+#subnetbankings{font-family:'Open Sans';font-style:normal;font-size:9px;font-weight:bold;padding-top:3px;margin-left:7%; margin-bottom:2%;}
+#subcardpayments{font-family:'Open Sans';font-style:normal;font-size:9px;font-weight:bold;padding-top:3px;margin-left:7%;}
+#thumbnail h6{font:Arial, Helvetica, sans-serif;color:#000;}
+#footer{background:#0085C3;height:auto;margin-top:2px;border-radius:4px;width:100%;margin-left:-4px;}
+.lfootertext{padding:10px;font:"Arial Black", Gadget, sans-serif;color:#FFF;font-size:10px;font-weight:bold;border-left:#FFF thin;}
+.lfootertext p{text-align:center;font:Arial, Helvetica, sans-serif;font-size:15px;font-weight:bold;color:#ffa200;}
+.lfootertext img{height:25px;width:25px;padding:4px;}
+.tablebox{width:80%;margin-bottom:10px;}
+.tablebox td{padding:3px;font-family:'Open Sans';font-style:normal;text-align:center;vertical-align:top;border:1px solid #dddddd;font-size:12px;}
+.tablebox th{font-family:'Open Sans';font-style:normal;font-weight:400;padding:3px;vertical-align:top;border:1px solid #dddddd;font-size:15px;}
+#los a{font:Arial, Helvetica, sans-serif;font-size:12px;font-weight:bold;color:#464646;}
+#faq{padding-top:11px;}
+#faq label{font-family:'Open Sans';font-style:normal;font-size:12px;font-weight:bold;padding-top:3px;}
+#faq label span{font-weight:bold;color:#F00;}
+#faq p{font-family:'Open Sans';font-weight:bold;font-family:'Open Sans';font-weight:bold;font-size:14px;text-shadow:#666}
+#llegend{font-family:'Open Sans';font-weight:bold;font-size:15px;font-family:'Open Sans';font-weight:bold;margin-bottom:10px;}
+.tabs-cont{background:url(/img/checkout/tab-bg.gif) no-repeat top center;font-size:12px;font-weight:normal;color:#666;float:left;width:170px;}
+.tab-visited:hover{background:url(../img/tab-active.gif) no-repeat top center;color:#555;font-weight:bold;cursor:pointer;cursor:hand;}
+.tab-active{background:url(../img/tab-active.gif) no-repeat top center;color:#17b0dc;font-weight:bold;font-size:13px;cursor:not-allowed;}
+.tab-disabled{background:none!important;opacity:.6;cursor:not-allowed;}
+.tabs-order{background:url(../img/order.png) no-repeat center;height:36px;margin:0 auto;}
+.tabs-payment{background:url(../img/payment.png) no-repeat center;height:36px;margin:0 auto;}
+.tabs-confirm{background:url(../img/confirm.png) no-repeat center;height:36px;margin:0 auto;}
+.tabs-complete{background:url(../img/complete.png) no-repeat center;height:36px;margin:0 auto;}
+.deal-quantity{margin:0 10px 15px 10px;}
+select.quantity-list{border:1px solid #cbc7c7;font-size:12px;font-weight:normal;color:#3e3e3e;background:#fff;-moz-box-shadow:inset .9px 1px 3px #e4e4e4;-webkit-box-shadow:inset .9px 1px 3px #e4e4e4;box-shadow:inset .9px 1px 3px #e4e4e4;width:52px;padding:2px;}
+.customer-info-outer,.order-summary-outer{overflow:hidden;font-family:Segoe UI,Lucida Grande,Arial,Helvetica,sans-serif;}.customer-info-outer{margin:0 10px;}.order-summary-outer{-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px;border:1px solid #b6b5b5;margin:0 10px 0 10px;}.order-summary-bg{background:url(/img/checkout/order-summary-bg.gif) repeat-x;-moz-border-radius:9px 9px 0 0;-webkit-border-radius:9px 9px 0 0;border-radius:9px 9px 0 0;margin:1px;overflow:hidden;}.customer-info{width:380px;float:left;overflow:hidden;padding-bottom:25px;}
+.Buy-cont-wrap{border:1px #aeaeae solid;-moz-border-radius:10px 10px 0 0;-webkit-border-radius:10px 10px 0 0;border-radius:10px;background:#FFF;padding-top:1px;float:left;-moz-box-shadow:0 0 2px #828282;-webkit-box-shadow:0 0 2px #828282;box-shadow:0 0 2px #828282;font-size:11px;position:relative;}
+.Buy-cont-wrap1{border:1px #aeaeae solid;-moz-border-radius:10px 10px 0 0;-webkit-border-radius:10px 10px 0 0;border-radius:10px;background:#FFF;padding-top:1px;float:left;-moz-box-shadow:0 0 2px #828282;-webkit-box-shadow:0 0 2px #828282;box-shadow:0 0 2px #828282;font-size:11px;position:relative;}
+.tabs-outer{overflow:hidden;margin:0 10px 15px 10px;}
+.tabs-outer1{overflow:hidden;margin:0 10px 15px 10px;}
+.b11,.b12,.b13,.b13,.b14,.b15,.b16,.b21,.b22,.b23,.b24,.b25,.b26,.b31,.b32,.b33,.b34,.b35,.b36,.b41,.b42,.b43,.b44,.b45,.b46{background-image:url(../img/banklogo.png);height:25px;width:25px;}
+.b11{background-position:-231px -47px;}.b12{background-position:-115px -6px;}.b13{background-position:-46px -10px;}.b14{background-position:-9px -51px;}.b15{background-position:-115px -6px;}.b16{background-position:-9px -51px;}
+.b21{background-position:-80px -7px;}.b22{background-position:-45px -93px;}.b23{background-position:-45px -53px;}.b24{background-position:-193px -5px;}.b25{background-position:-45px -93px;}.b26{background-position:-193px -5px;}
+.b31{background-position:-161px -49px;}.b32{background-position:-7px -10px;}.b33{background-position:-153px -7px;}.b34{background-position:-232px -8px;}.b35{background-position:-7px -10px;}.b36{background-position:-232px -8px;}
+.b41{background-position:-84px -53px;}.b42{background-position:-5px -91px;}.b43{background-position:-200px -47px;}.b44{background-position:-124px -52px;}.b45{background-position:-5px -91px;}.b46{background-position:-124px -52px;}
+#sub_bl_span{position:absolute;margin-top:-22px;padding-left:29px;}
+.banklogo{padding-bottom:7px;} .lb1{ color: #ff6307;} .lb2 { color:#51c3eb}

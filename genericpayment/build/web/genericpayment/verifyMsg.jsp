@@ -1,0 +1,1 @@
+<%=request.getParameter("msg")!=null?request.getParameter("msg") : ""%>

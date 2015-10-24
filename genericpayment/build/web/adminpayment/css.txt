@@ -1,0 +1,27 @@
+add following in style_less.css
+
+
+/* custom added nav-tabs */
+.nav-tabs > .active > a, .nav-tabs > .active > a:hover, .nav-tabs > .active > a:focus {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #e7e7e7;
+    border-color: #6f6f6f #ddd transparent;
+    border-image: none;
+    border-style: solid;
+    border-width: 1px;
+    color: #020202;
+    cursor: default;
+}
+
+
+
+style_less.css line no 409
+.sidebar-nav > ul > li > ul {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.9);
+    display: none;
+    list-style: outside none none;
+    margin: 0;
+}
